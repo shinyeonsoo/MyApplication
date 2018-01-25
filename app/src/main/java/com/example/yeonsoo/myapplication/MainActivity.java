@@ -1,5 +1,7 @@
 package com.example.yeonsoo.myapplication;
 
+//2018.01.25 by yeonsoo
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
